@@ -1,5 +1,6 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
+
         double length = 12.5;
         double breadth = 7.5;
 
